@@ -1,4 +1,4 @@
-Active Directory Group Membership Tracker
+#Active Directory Group Membership Tracker
 This Python script queries Active Directory (AD) for members of a and tracks changes in group membership over time. It stores the results of each query to a CSV file and compares the current members with the previous query, highlighting any differences. This is useful for monitoring and auditing changes in group membership.
 
 Features:
